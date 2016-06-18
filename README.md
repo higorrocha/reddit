@@ -1,2 +1,2 @@
-# reddit
-Build a Reddit :)
+# 12webApps
+Ruby on Rails
