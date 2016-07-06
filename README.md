@@ -1,2 +1,2 @@
-# 12webApps
-Ruby on Rails
+# Web App Reddit
+with Ruby on Rails :)
